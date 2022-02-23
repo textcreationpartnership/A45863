@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Indulgence to dissenters in religion by suspending penal laws in maters ecclesiastical is destructive to both church and state</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45863</idno>
+            <idno type="STC">Wing I156</idno>
+            <idno type="STC">ESTC R25552</idno>
+            <idno type="EEBO-CITATION">09012326</idno>
+            <idno type="OCLC">ocm 09012326</idno>
+            <idno type="VID">42227</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45863)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42227)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1287:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Indulgence to dissenters in religion by suspending penal laws in maters ecclesiastical is destructive to both church and state</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Royston,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dissenters, Religious --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:42227:1"/>
+            <pb facs="tcp:42227:1"/>
+            <p>INDULGENCE TO DISSENTERS IN RELIGION BY Suſpending Penal Laws in matters Eccleſiaſtical IS Deſtructive both to <hi>CHURCH</hi> and <hi>STATE.</hi>
+            </p>
+            <q>Quid vanae ſine moribus Leges proficiunt?
+<bibl>
+                  <hi>Horat.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard Royſton,</hi> Bookſeller to His moſt Sacred Majeſty. 1673.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:42227:2"/>
+            <pb facs="tcp:42227:2"/>
+            <head>INDULGENCE TO DISSENTERS, <hi>&amp;c.</hi>
+            </head>
+            <head type="sub">Is Deſtructive both to <hi>
+                  <hi>CHURCH</hi> and <hi>STATE.</hi>
+               </hi>
+            </head>
+            <p>IT may juſty ſeem <hi>ſtrange</hi> to all reaſonable and conſidering men, that thoſe <hi>Perſons,</hi> who for theſe ſundry years laſt part have under the pretence of a thorough <hi>Reformation,</hi> but viſibly to their own temporal advantage, endea<g ref="char:EOLhyphen"/>voured to bring the good People of this <hi>Nation</hi> into an hatred, as well of the <hi>Ec<g ref="char:EOLhyphen"/>cleſiaſtical Government,</hi> as of the Forms of Gods <hi>publick Worſhip and Service,</hi> by ſo many good Laws heretofore eſtabliſh'd in this Land, and whereunto very many of themſelves had with their own hands for<g ref="char:EOLhyphen"/>merly <hi>Subſcribed:</hi> ſhould now (in ſtead of retracting their <hi>Errors,</hi> returning to
+<pb n="2" facs="tcp:42227:3"/>their due <hi>Obedience,</hi> and reducing the Peo<g ref="char:EOLhyphen"/>ple, whom they have hitherto miſled, to a righter underſtanding of their <hi>Duty</hi>) ex<g ref="char:EOLhyphen"/>pect to be gratified from the <hi>Church</hi> and <hi>State</hi> (to whom they have done ſo much diſ-ſervice) by condeſcending to all their unreaſonable demands; and that under the pretence of tenderneſs of <hi>Conſcience.</hi>
+            </p>
+            <p>It had been well if theſe men, before they adventur'd to make their impetuous and confident Applications in this behalf, had duly conſider'd with themſelves,</p>
+            <p>
+               <hi>Firſt,</hi> What little regard was had by themſelves, whilſt they were in power, to the Conſciences of ſuch their <hi>Brethren,</hi> as continued ſtedfaſt to their honeſt Princi<g ref="char:EOLhyphen"/>ples of <hi>Loyalty</hi> to their undoubted Sove<g ref="char:EOLhyphen"/>raign, and Obedience to the eſtabliſh'd Laws: expoſing their Perſons to Beggary and contempt; &amp; ſeizing their Poſſeſſions to their own uſe, upon that only account.</p>
+            <p>
+               <hi>Secondly,</hi> That if the pretenſion of ten<g ref="char:EOLhyphen"/>derneſs of Conſcience, and the giving of eaſe and Satisfaction to ſuch as ſo pretend ſhould be admitted; the one as a ſufficient Plea for ſubjects to warrant their non<g ref="char:EOLhyphen"/>obedience to eſtabliſhed Laws; the other, as of it ſelf a ſufficient ground for Gover<g ref="char:EOLhyphen"/>nors upon eyery ſuch pretenſion to change
+<pb n="3" facs="tcp:42227:3"/>and innovate the ſaid Laws; it could not be avoided, but that in a ſhort time all re<g ref="char:EOLhyphen"/>verence to the Laws would be laid aſide, the ſinews of Government ſo ſlackned, and Soveraign Authority it ſelf grow into ſuch contempt; that Anarchy, confuſion and ruine muſt needs enſue thereupon. For there being the ſame reaſon of all Pre<g ref="char:EOLhyphen"/>tenders; whatſoever liberty, Indulgence or conceſſion ſhall be made, granted or allow<g ref="char:EOLhyphen"/>ed to any one Party or Faction ſo preten<g ref="char:EOLhyphen"/>ding, the ſame in all equity ought to be made, granted and allowed to every other Party or Faction (yea even the Papiſts themſelves) that ſhall pretend the ſame: whereof how ſad the conſequent will be, every man who will but ſuffer himſelf to be maſter of his own Reaſon may eaſily underſtand.</p>
+            <p>
+               <hi>Thirdly,</hi> In caſe any farther <hi>Conceſſions</hi> ſhould be granted them, according to their own deſires, by improving this preſent <hi>In<g ref="char:EOLhyphen"/>dulgence</hi> into an <hi>Act of Parliament;</hi> what little aſſurance the <hi>Church</hi> and <hi>State</hi> can have of their future peaceable demeanour and acquieſcence in ſuch Conceſſions: when as his Majeſties gracious and unex<g ref="char:EOLhyphen"/>ampled Indulgence towards them, ex<g ref="char:EOLhyphen"/>preſs'd in his late publiſhed <hi>Declaration,</hi> hath been ſo far from bringing them to
+<pb n="4" facs="tcp:42227:4"/>any greater degree of <hi>Moderation</hi> and <hi>So<g ref="char:EOLhyphen"/>briety,</hi> as in all reaſon it ought to have done, that it hath rather (quite contrary to His <hi>Majeſties</hi> pious intentions therein) but added to their obſtinacy and inſolency: as by their petulant expreſſions, and malici<g ref="char:EOLhyphen"/>ous inſinuations from the Pulpit and elſe<g ref="char:EOLhyphen"/>where doth too evidently appear.</p>
+            <p>And indeed whoever conſiders the true ſtate of things, cannot rationally hope it ſhould ever be otherwiſe; it being a cer<g ref="char:EOLhyphen"/>tain truth (in which I am inſtructed by a late learned<note n="*" place="margin">
+                  <hi>Diſcourſe of</hi> Eccl. Policy, p. 166.</note> Author) <q>
+                  <hi>That a bare Indul<g ref="char:EOLhyphen"/>gence of men in the free exerciſe of any Reli<g ref="char:EOLhyphen"/>gion different from the Publick Profeſſion, can lay no obligation upon the Party.</hi> Per<g ref="char:EOLhyphen"/>haps when the rigour of a Law, under which they have ſmarted a while, is at firſt relaxed, this indeed they may at preſent take for a kindneſs, becauſe 'tis really a favor in compariſon to their former Con<g ref="char:EOLhyphen"/>dition; and therefore as long as the me<g ref="char:EOLhyphen"/>mory of that remains freſh upon their minds, it may poſſibly affect them with ſome grateful Reſentments. But alas! theſe Affections quickly vaniſh, and then what before was favor, is now become juſtice; and their Prince did but reſtore them to their juſt and lawful Rights, when he took off his Tyrannical Laws and Im<g ref="char:EOLhyphen"/>poſitions from the Conſciences of his beſt
+<pb n="5" facs="tcp:42227:4"/>Subjects. While thoſe unjuſt Laws were in force, he oppreſs'd and perſecuted the People of God; and therefore when he cancels them, all the kindneſs he is guilty of, is only to repent of his Tyranny and Perſecution, which is no <hi>ſavour,</hi> and by conſequence no <hi>Obligation.</hi>
+               </q>
+            </p>
+            <p>Thus far that worthy Perſon; to whoſe Sentiments herein upon good grounds, I do fully ſubſcribe. For however theſe men may ſeem ſatisfied with this Indulgence, (it being the moſt advantageous method that can at preſent be employ'd) yet ere long (if Authority do not interpoſe) they will effectually convince us; that it is not Indulgence, but a thorough Reformation, <hi>i.e.</hi> as ſad experience hath explain'd it, a total extirpation of what ever is contrary to their intereſt and deſigns, that each different party endeavours to eſtabliſh. The Reaſon of which procedure (as the ſame<note n="*" place="margin">Id. p. <hi>163.</hi>
+               </note> Author informs me) is this funda<g ref="char:EOLhyphen"/>mental Principle that runs through all their Sects; <hi>That they are bound under pain of Eternal damnation to labour their utmoſt to eſtabliſh the Worſhip of God in its greateſt purity and perfection: and withal appre<g ref="char:EOLhyphen"/>hending that way now eſtabliſh'd by Law de<g ref="char:EOLhyphen"/>fective and ſuperſtitious, they cannot but be bound in Conſcience to endeavour its utter ruine and ſubverſion.</hi>
+            </p>
+            <pb n="6" facs="tcp:42227:5"/>
+            <p>This is a Point that would bear much enlargement, did I not rather deſire to draw it up briefly into this humble Petiti<g ref="char:EOLhyphen"/>on, as it was formerly preſented to His moſt <hi>Excellent Majeſty</hi> and his preſent <hi>Parliament,</hi> that They would pleaſe in their great Wiſdoms to conſider,</p>
+            <p>
+               <q>
+                  <note n="*" place="margin">Tolerati<g ref="char:EOLhyphen"/>on diſap<g ref="char:EOLhyphen"/>prov'd? and condemn'd <hi>&amp;c. p. 86.</hi>
+                  </note> Whether it be either <hi>Religion</hi> or <hi>Po<g ref="char:EOLhyphen"/>licy</hi> to <hi>tolerate</hi> thoſe <hi>Perſons</hi> or <hi>Parties,</hi> which are perſwaded in their <hi>Conſciences,</hi> that it is a neceſſary incumbent Duty, not only to hate and deteſt, but alſo by all thoſe ways and methods which they themſelves ſhall think lawful, to weaken, alter, and extirpate the ſetled <hi>Govern<g ref="char:EOLhyphen"/>ment</hi> of the <hi>Church?</hi>
+               </q> The which <hi>Altera<g ref="char:EOLhyphen"/>tion</hi> what influence it may have upon the <hi>State,</hi> and how deſtructive it may prove to his <hi>Majeſties Crown</hi> and <hi>Kingdoms</hi> (I hope it is no breach of the Act of <hi>Oblivion</hi> to remind them) the experience of late <hi>years</hi> hath ſuggeſted a very fatal <hi>conjecture.</hi> It will perhaps be here urg'd (which is the only <hi>Objection</hi> worth our notice, and to which I now deſign a full and ſatis<g ref="char:EOLhyphen"/>factory <hi>Anſwer</hi>)</p>
+            <p>That,<label type="milestone">
+                  <seg type="milestoneunit">Obj. </seg>
+               </label> 
+               <hi>Man</hi> being a <hi>rational Agent,</hi> acting from a free Principle of <hi>Election,</hi> muſt be dealt with in a rational and moral way, <hi>i.e.</hi> by Perſwaſions and Admonitions;
+<pb n="7" facs="tcp:42227:5"/>and therefore, <hi>ſay they,</hi> when the <hi>Prelates</hi> and their Agents have employed the beſt Rhetorick they can to exaſperate <hi>Autho<g ref="char:EOLhyphen"/>rity</hi> againſt thoſe who are Diſſenters from them; we muſt then tell them, that it is neither the rigour of <hi>Laws</hi> nor the ſeveri<g ref="char:EOLhyphen"/>ty of their <hi>Execution</hi> that can any thing avail them; they have not to deal with <hi>Brutes,</hi> that are driven by force and com<g ref="char:EOLhyphen"/>pulſion; but with <hi>Men,</hi> who have <hi>Con<g ref="char:EOLhyphen"/>ſciences</hi> that muſt be ſatisfyed in the Le<g ref="char:EOLhyphen"/>gality of their Actings; and therefore it is the moſt prudent courſe; firſt, if they can, to <hi>convince</hi> them in the Spirit of meekneſs; if not, then leave the ſucceſs to <hi>God</hi> by taking off the rigour of theſe <hi>Penal Laws,</hi> which may indeed make men <hi>Formaliſts</hi> and <hi>Hypocrites,</hi> but can never work a real change upon their hearts, or infuſe true <hi>Grace</hi> into the <hi>Soul,</hi> To this I <hi>Anſwer;</hi>
+            </p>
+            <p>That though Man be a rational Agent,<label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> and as ſuch is moſt ſutably drawn by Per<g ref="char:EOLhyphen"/>ſwaſions and Admonitions, yet my Bre<g ref="char:EOLhyphen"/>thren are deſired to remember; that there is in <hi>Man</hi> a <hi>Senſitive Faculty</hi> as well as a <hi>Rational;</hi> by the violent and irregular motions of which he is many times hurry'd to ſuch extravagancies, as would not only diſturb, but, if not timely prevented, even
+<pb n="8" facs="tcp:42227:6"/>utterly ſubvert all Policy and Order; and therefore, that it is the infinite care and good Providence of God, for the ſecuring of humane Societies, to ordain Principa<g ref="char:EOLhyphen"/>lities and Powers; by whoſe <hi>Authority</hi> are enacted good Laws and Conſtitutions, which by Penalties annexed may reſtrain the wilful violaters of them, who are com<g ref="char:EOLhyphen"/>monly moſt led by the ſway of their ſen<g ref="char:EOLhyphen"/>ſual deſires, and are uſually more afraid of <hi>Sin</hi> for the ſenſible Evils which follow it amongſt men, <hi>i.e,</hi> for the Puniſhments that are inflicted upon their <hi>Bodies</hi> and <hi>Eſtates,</hi> than for any kind of ſentence that Reaſon or Religion can pronounce againſt it.</p>
+            <p>Indeed were the Precepts of the <hi>Goſpel</hi> as duly obſerv'd as they are generally pre<g ref="char:EOLhyphen"/>tended, or would men be as readily Reli<g ref="char:EOLhyphen"/>gious as we can tell them 'tis their Duty to be ſo; could their <hi>Preachers</hi> as effectu<g ref="char:EOLhyphen"/>ally make them <hi>temperate, chaſte,</hi> and <hi>juſt; honeſt</hi> and <hi>peaceable;</hi> and obedient to their Superiours; or at leaſt but reſtrain the contrary exorbitances, as they can ſhew them a Text of Scripture that requires ſuch demeanours; could this be effected by their ſole Admonitions, there were then ſmall need of a coercive Power. But ſince we live not <hi>in Republicâ Platonis,</hi> but <hi>in face Romuli;</hi> Wherein, what through the
+<pb n="9" facs="tcp:42227:6"/>Corruption of humane nature; the Pride and Prejudice of mens Spirits, the pre<g ref="char:EOLhyphen"/>vailing Intereſts of ſome Factions and Parties, the greateſt part of the Nation are miſerably wanting in their Duty; living in a known diſobedience to the Laws both of God and Man. When Atheiſm, Prophaneneſs and open Debauchery ſhall vaunt it on the one hand; when Schiſm, Faction and Sedition ſhall inſult it on the other hand; when we are under ſuch Circumſtances as theſe, ſo as it is in vain to think that empty talk ſhould have any ſtrong Operation upon the Wills and Af<g ref="char:EOLhyphen"/>fections of theſe men, who have thus hardned their foreheads as Braſs againſt all Admonitions; I ſay things being brought to this paſs, what more effectual courſe can be taken than to call in the help of the Secular Power: in all Humility to implore the aid and Aſſiſtance of His moſt Excel<g ref="char:EOLhyphen"/>lent <hi>Majeſty</hi> and the two Houſes of <hi>Par<g ref="char:EOLhyphen"/>liament,</hi> in whoſe only power it is, next under <hi>God,</hi> to reform theſe abuſes. That they would ſeriouſly conſider (and I be<g ref="char:EOLhyphen"/>ſeech God they may do it before it is too late) the <hi>deſtructive,</hi> yet natural conſe<g ref="char:EOLhyphen"/>quence of this <hi>Indulgence</hi> to Diſſenters. For however fair and ſpecious it may be repreſented (the Devil himſelf is ſome<g ref="char:EOLhyphen"/>times transformed into an Angel of Light)
+<pb n="10" facs="tcp:42227:7"/>yet there is methinks this following Re<g ref="char:EOLhyphen"/>flection that ſhould make it irreconcile<g ref="char:EOLhyphen"/>able to all true Lovers of their <hi>Countrey.</hi>
+            </p>
+            <p>We cannot as yet be ignorant (which ſome mens <hi>Intereſt</hi> would have us to for<g ref="char:EOLhyphen"/>get) that <hi>three</hi> flouriſhing <hi>Kingdoms</hi> were lately involv'd in Confuſion and Blood: the beſt conſtituted <hi>Church</hi> in Chriſten<g ref="char:EOLhyphen"/>dom Schiſmatically defac'd; and the beſt of <hi>Kings</hi> deſtroyed and murthered by his Rebellious <hi>Subjects.</hi> Now if we may be allow'd to inquire into the Reaſon of theſe things, <hi>i. e.</hi> if it be conſiſtent with our Allegiance to prevent the like for the future; what was the true Cauſe of all this Miſery and Confuſion?</p>
+            <p>
+               <note n="*" place="margin">Intereſt of <hi>England</hi> in matters of Religion <hi>p. 403.</hi>
+               </note>
+               <hi>The exceſſive Dominion of the Hie<g ref="char:EOLhyphen"/>rarchy, with the rigorous Impoſition of hu<g ref="char:EOLhyphen"/>mane Ceremonies was accounted much of the malady of former times, which ended in thoſe deadly Convulſions of Church and State.</hi>
+               <note n="*" place="margin">Account of Proceed<g ref="char:EOLhyphen"/>ings, <hi>p. 7.</hi>
+               </note> 
+               <hi>The ſtrict impoſing of the ſtrict uſe of theſe Forms was the very thing that diſquieted theſe Nations, taking in the concomitant Ceremonies and S<g ref="char:V">Ʋ</g>BSCRIP<g ref="char:EOLhyphen"/>TION.</hi> But theſe things are too noto<g ref="char:EOLhyphen"/>riouſly known to need any enlargement: their own publick <hi>Declarations, Remon<g ref="char:EOLhyphen"/>ſtrances, &amp;c.</hi> are ſufficient evidence if oc<g ref="char:EOLhyphen"/>caſion ſhall requite.</p>
+            <pb n="11" facs="tcp:42227:7"/>
+            <p>And do we not now begin to repeat the ſame <hi>Methods,</hi> by which our ruine was at firſt promoted? are there not tender <hi>Conſciences</hi> to be ſatisfied, <hi>Diſſenters in Religion</hi> to be <hi>eas'd</hi> and <hi>Indulg'd?</hi> which whoever oppoſeth ſhall he not, as for<g ref="char:EOLhyphen"/>merly, be voted an <hi>Enemy</hi> to His <hi>Ma<g ref="char:EOLhyphen"/>jeſties</hi> Intereſt? And then muſt not <hi>evil Counſellors</hi> again be remov'd? by which Arts when a company of factious deſign<g ref="char:EOLhyphen"/>ing men ſhall inſenſibly have tied the hands of the <hi>Loyal Party,</hi> and thereby once more put themſelves into a Capacity; what can we then expect but a thorough Reformation, <hi>i. e.</hi> a total Extirpation both of Monarchy and Epiſcopacy, as ſad experience hath already explain'd it?</p>
+            <p>Indeed, if Almighty God hath deſign'd us for ruine, (which our ſins and incor<g ref="char:EOLhyphen"/>rigibleneſs have juſtly deſerv'd) this Me<g ref="char:EOLhyphen"/>thod will effectually promote it. But if our <hi>gracious God</hi> have ſtill a favour to<g ref="char:EOLhyphen"/>wards his People; and hath a purpoſe (notwithſtanding our continued Provo<g ref="char:EOLhyphen"/>cations) to lengthen out our Peace and Tranquillity; 'tis very much to be hop'd, nay rationally to be expected, that <hi>Autho<g ref="char:EOLhyphen"/>rity</hi> will awaken; and by a vigorous and ſeaſonable execution of Penal Laws, con<g ref="char:EOLhyphen"/>vince all Offenders (both <hi>Proteſtant</hi> and <hi>Papiſt</hi>) that the <hi>Sword is not born in vain.</hi> If
+<pb n="12" facs="tcp:42227:8"/>this courſe be effectually taken, there is yet a well-grounded hope, that both <hi>Church</hi> and <hi>State</hi> may flouriſh as formerly. But if this be neglected I am then afraid (and I beſeech God the event do not juſtifie ray fears) That <hi>This ſuſpending of Penal Laws in Matters Eccleſiaſtical is but the beginning of our ſorrows.</hi>
+            </p>
+            <p>The Reaſon of which ſad apprehenſion is that known ſaying, <hi>Erranti nullus Ter<g ref="char:EOLhyphen"/>minus.</hi> All the Art of man cannot poſſi<g ref="char:EOLhyphen"/>bly foreſee, and conſequently not with any certainty prevent, the multiply'd miſ<g ref="char:EOLhyphen"/>chiefs of this intended Relaxation. <hi>The heart of man is deſperately wicked who can know it?</hi> and there is that Pride, Ambiti<g ref="char:EOLhyphen"/>on, Covetouſneſs, Revenge, carnal In<g ref="char:EOLhyphen"/>tereſt in ſome factious Perſons, that if the Reins of <hi>Diſcipline</hi> be let looſe (which have hitherto reſtrain'd them) what other can be expected but our for<g ref="char:EOLhyphen"/>mer <hi>Confuſions,</hi> the natural <hi>Centre</hi> to which theſe things tend?</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:42227:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
